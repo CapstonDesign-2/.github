@@ -2,7 +2,7 @@
 
 
 
-- 배포 URL : 
+- 배포 URL : https://lustrous-starburst-fc4ad8.netlify.app/
 
 
 <br>
@@ -22,7 +22,7 @@
 
 | **박승균** | **김재환** | **한시현** | **박규원** |
 | :------: |  :------: | :------: | :------: |
-|  | |  | <br/> @High-Quality-Coffee](https://github.com/High-Quality-Coffee) |
+| @seungyun-Park](https://github.com/seungyun-Park) | |  | <br/> @High-Quality-Coffee](https://github.com/High-Quality-Coffee) |
 
 </div>
 
