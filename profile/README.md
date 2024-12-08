@@ -1,13 +1,17 @@
 # 🖥️ 내 컴퓨터의 하드웨어 스펙을 한번에 알아보는 서비스 MySpec
 
-- 배포 URL : https://lustrous-starburst-fc4ad8.netlify.app/
-
 <br>
+
+<div align="center">
 
 ![myspec정보불러오기](https://github.com/user-attachments/assets/0c4fc23c-6441-4b18-aff0-024437a397b1)
 
 
 ![myspec그외페이지](https://github.com/user-attachments/assets/bf61a858-4125-405a-b750-bc61707f6d5f)
+
+URL : https://lustrous-starburst-fc4ad8.netlify.app/
+
+</div>
 
 ## 프로젝트 소개
 
@@ -23,9 +27,8 @@
 <div align="center">
 
 | **박승균** | **김재환** | **한시현** | **박규원** |
-| --- | --- | --- | --- |
-| @seungyun-Park](https://github.com/seungyun-Park) |  | @devowl99
-(https://github.com/devowl99) | [<img src="](https://github.com/High-Quality-Coffee)https://avatars.githubusercontent.com/u/125748258?v=4" height=150 width=150> <br/> @High-Quality-Coffee |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/59389436?v=4" height=150 width=150> <br/> @seungyun-Park](https://github.com/seungyun-Park) | [<img src="https://avatars.githubusercontent.com/u/158824294?v=4" height=150 width=150> <br/> @Jaeboong](https://github.com/Jaeboong) | [<img src="https://avatars.githubusercontent.com/u/152502583?v=4" height=150 width=150> <br/> @devowl99](https://github.com/devowl99) | [<img src="https://avatars.githubusercontent.com/u/125748258?v=4" height=150 width=150> <br/> @High-Quality-Coffee](https://github.com/High-Quality-Coffee) |
 
 </div>
 
@@ -59,9 +62,9 @@
 
 - Electron
     - Desktop 어플리케이션 개발을 위해서, windows, macOS, Linux에서 작동하는 크로스 플랫폼 앱을 구축할 수 있도록 도와주는 Electron 프레임워크를 사용하였습니다.
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c1c719d5-61eb-4ed1-8c57-56b3b6f4542c/e5a59c08-fe2f-470d-ad6f-e7fe3a6a220d/image.png)
-    
+      
+    ![image](https://github.com/user-attachments/assets/02ac6295-f630-4ef9-b9b4-7fa4979cb954)
+
 - HTML/CSS/JS
     - 데스크탑 어플리케이션의 UI/UX를 구현하기 위해 HTML/CSS를 사용하였습니다.
 
@@ -247,26 +250,24 @@ src
 
 <br>
 
-## 6. 신경 쓴 부분
+<br>
+
+## 6. 프로젝트 아키텍처
 
 <br>
 
-## 7. 프로젝트 아키텍처
-
-<br>
-
-## 8. 트러블 슈팅
+## 7. 트러블 슈팅
 
 <br>
 
 - Desktop Application 구축 : 클라이언트 측에서 (웹 브라우저 상에서) 사용자의 하드웨어 정보를 가져올 수 없기 때문에, electron 프레임워크를 사용하여 데스크탑 어플리케이션을 구축
 - cors 설정 해결 : 잘못된 위치에서의 cors설정으로 인하여 클라이언트와 서버(데스크탑 앱)간의 통신이 안되는 오류가 발생하였지만, api 통신 이후에 cors를 오픈하도록 설정해두어서 오류가 발생한 것을 파악. 결국 cors를 오픈하는 코드를 main.js의 가능한 최상단에 위치시킴으로써, 문제를 해결 할 수 있게 되었다.
 
-## 9. 개선 목표
+## 8. 개선 목표
 
 <br>
 
-## 10. 프로젝트 후기
+## 9. 프로젝트 후기
 
 ### 🍊 박승균
 
