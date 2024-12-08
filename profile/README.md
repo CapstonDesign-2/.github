@@ -3,10 +3,8 @@
 - 배포 URL : https://lustrous-starburst-fc4ad8.netlify.app/
 
 <br>
-
-![myspec정보불러오기.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/c1c719d5-61eb-4ed1-8c57-56b3b6f4542c/a552eaad-c459-408e-b116-7e3b3e5281b1/myspec%EC%A0%95%EB%B3%B4%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0.gif)
-
-![myspec그외페이지.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/c1c719d5-61eb-4ed1-8c57-56b3b6f4542c/06d90346-500d-40d9-8823-258bc1955ff3/myspec%EA%B7%B8%EC%99%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
+![myspec정보불러오기](https://github.com/user-attachments/assets/0c4fc23c-6441-4b18-aff0-024437a397b1)
+![myspec그외페이지](https://github.com/user-attachments/assets/bf61a858-4125-405a-b750-bc61707f6d5f)
 
 ## 프로젝트 소개
 
